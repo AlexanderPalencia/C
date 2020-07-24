@@ -1,6 +1,19 @@
 #include <cs50.h>
 #include <stdio.h>
 
+
+"""
+Height: 8
+#
+##
+###
+####
+#####
+######
+#######
+########
+"""
+
 int main(void)
 {
     int n = 0;
